@@ -48,5 +48,5 @@ func collatzPlot(startPoint: Int) {
 }
 
 // Example use of the function
-collatzPlot(startPoint: 345674)
+collatzPlot(startPoint: 53)
 //#-end-editable-code
