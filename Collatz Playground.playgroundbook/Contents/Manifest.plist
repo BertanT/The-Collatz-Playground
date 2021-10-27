@@ -21,7 +21,7 @@
 	<key>MinimumSwiftPlaygroundsVersion</key>
 	<string>3.2</string>
 	<key>Subtitle</key>
-	<string>Discover The Collatz conjecture</string>
+	<string>Discover The Collatz conjecture!</string>
 	<key>SupportsDarkMode</key>
 	<true/>
 	<key>SwiftVersion</key>
