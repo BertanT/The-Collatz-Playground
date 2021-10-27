@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>Name</key>
+	<string>CollatzPlot</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>UserModuleCodeCompletionDirectives</key>
+	<array>
+		<string>module, hide, Swift</string>
+		<string>identifier, hide, _setup(), AbstractPointChartable</string>
+	</array>
+	<key>UserModuleSourceFilesToOpen</key>
+	<array>
+		<string>UserModules/MyFiles.playgroundmodule/Sources/SharedCode.swift</string>
+	</array>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>
