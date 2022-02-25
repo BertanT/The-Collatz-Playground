@@ -7,7 +7,7 @@
 		<string>Graphing.playgroundchapter</string>
 	</array>
 	<key>ContentIdentifier</key>
-	<string>com.bertan.collatzplayground</string>
+	<string>com.bertan.playgroundcollection.theCollatzPlayground</string>
 	<key>ContentVersion</key>
 	<string>1.0</string>
 	<key>DeploymentTarget</key>
@@ -21,7 +21,7 @@
 	<key>MinimumSwiftPlaygroundsVersion</key>
 	<string>3.2</string>
 	<key>Subtitle</key>
-	<string>Discover The Collatz conjecture!</string>
+	<string>Discover the Collatz Conjecture (3n+1) With Graphs!</string>
 	<key>SupportsDarkMode</key>
 	<true/>
 	<key>SwiftVersion</key>
