@@ -11,7 +11,7 @@
 	<key>ContentVersion</key>
 	<string>1.0</string>
 	<key>DeploymentTarget</key>
-	<string>ios12.0</string>
+	<string>ios15.0</string>
 	<key>DevelopmentRegion</key>
 	<string>en</string>
 	<key>HasMeaningfulResetPoint</key>
@@ -25,11 +25,13 @@
 	<key>SupportsDarkMode</key>
 	<true/>
 	<key>SwiftVersion</key>
-	<string>5.1</string>
+	<string>5.5</string>
 	<key>UserAutoImportedAuxiliaryModules</key>
 	<array>
 		<string>Book</string>
 	</array>
+	<key>Name</key>
+	<string>The Collatz Playground</string>
 	<key>UserModuleMode</key>
 	<string>Full</string>
 	<key>Version</key>
